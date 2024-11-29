@@ -1,4 +1,4 @@
-#Optimizing Cardiovascular Health: Leveraging Deep Learning for Enhanced Real-Time Detection of Coronary Artery Stenosis
+# Optimizing Cardiovascular Health: Leveraging Deep Learning for Enhanced Real-Time Detection of Coronary Artery Stenosis
 
 This repository contains the code, Results, and documentation for the project "Optimizing Cardiovascular Health: Leveraging Deep Learning for Enhanced Real-Time Detection of Coronary Artery Stenosis", conducted as part of the MSc Data Analytics program at the University of Warwick.
 
